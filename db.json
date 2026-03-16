@@ -1,0 +1,292 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "João Silva",
+      "curso": "Informática"
+    },
+    {
+      "id": "2",
+      "nome": "Maria Oliveira",
+      "curso": "Informática"
+    },
+    {
+      "id": "3",
+      "nome": "Pedro Santos",
+      "curso": "Informática"
+    },
+    {
+      "id": "4",
+      "nome": "Ana Souza",
+      "curso": "Informática"
+    },
+    {
+      "id": "5",
+      "nome": "Carlos Lima",
+      "curso": "Informática"
+    },
+    {
+      "id": "6",
+      "nome": "Juliana Costa",
+      "curso": "Informática"
+    },
+    {
+      "id": "7",
+      "nome": "Roberto Alves",
+      "curso": "Informática"
+    },
+    {
+      "id": "8",
+      "nome": "Fernanda Rocha",
+      "curso": "Informática"
+    },
+    {
+      "id": "9",
+      "nome": "Lucas Mendes",
+      "curso": "Informática"
+    },
+    {
+      "id": "10",
+      "nome": "Patrícia Gomes",
+      "curso": "Informática"
+    },
+    {
+      "id": "11",
+      "nome": "Amanda Ferreira",
+      "curso": "Administração"
+    },
+    {
+      "id": "12",
+      "nome": "Bruno Cardoso",
+      "curso": "Administração"
+    },
+    {
+      "id": "13",
+      "nome": "Carla Ribeiro",
+      "curso": "Administração"
+    },
+    {
+      "id": "14",
+      "nome": "Diego Martins",
+      "curso": "Administração"
+    },
+    {
+      "id": "15",
+      "nome": "Eduarda Nunes",
+      "curso": "Administração"
+    },
+    {
+      "id": "16",
+      "nome": "Felipe Barbosa",
+      "curso": "Administração"
+    },
+    {
+      "id": "17",
+      "nome": "Gabriela Teixeira",
+      "curso": "Administração"
+    },
+    {
+      "id": "18",
+      "nome": "Henrique Correia",
+      "curso": "Administração"
+    },
+    {
+      "id": "19",
+      "nome": "Isabela Fernandes",
+      "curso": "Administração"
+    },
+    {
+      "id": "20",
+      "nome": "Jorge Pinto",
+      "curso": "Administração"
+    },
+    {
+      "id": "21",
+      "nome": "Larissa Monteiro",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "22",
+      "nome": "Marcos Vinícius",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "23",
+      "nome": "Natália Barros",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "24",
+      "nome": "Otávio Lopes",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "25",
+      "nome": "Paula Miranda",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "26",
+      "nome": "Rafael Carvalho",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "27",
+      "nome": "Sabrina Melo",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "28",
+      "nome": "Thiago Farias",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "29",
+      "nome": "Vanessa Castro",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "30",
+      "nome": "William Batista",
+      "curso": "Enfermagem"
+    },
+    {
+      "id": "31",
+      "nome": "Alexandre Moura",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "32",
+      "nome": "Beatriz Freitas",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "33",
+      "nome": "Caio Duarte",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "34",
+      "nome": "Daniela Assis",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "35",
+      "nome": "Eduardo Pires",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "36",
+      "nome": "Flávia Tavares",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "37",
+      "nome": "Gustavo Viana",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "38",
+      "nome": "Helena Campos",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "39",
+      "nome": "Igor Andrade",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "40",
+      "nome": "Jéssica Novaes",
+      "curso": "Engenharia"
+    },
+    {
+      "id": "41",
+      "nome": "Kleber Araújo",
+      "curso": "Direito"
+    },
+    {
+      "id": "42",
+      "nome": "Lorena Menezes",
+      "curso": "Direito"
+    },
+    {
+      "id": "43",
+      "nome": "Murilo Rezende",
+      "curso": "Direito"
+    },
+    {
+      "id": "44",
+      "nome": "Nicolas Vargas",
+      "curso": "Direito"
+    },
+    {
+      "id": "45",
+      "nome": "Olivia Peixoto",
+      "curso": "Direito"
+    },
+    {
+      "id": "46",
+      "nome": "Paulo César",
+      "curso": "Direito"
+    },
+    {
+      "id": "47",
+      "nome": "Renata Chaves",
+      "curso": "Direito"
+    },
+    {
+      "id": "48",
+      "nome": "Sérgio Neves",
+      "curso": "Direito"
+    },
+    {
+      "id": "49",
+      "nome": "Tatiana Rosa",
+      "curso": "Direito"
+    },
+    {
+      "id": "50",
+      "nome": "Vitor Hugo",
+      "curso": "Direito"
+    },
+    {
+      "id": "cf36",
+      "nome": "Mario Kart",
+      "curso": "Corridas de Rua"
+    }
+  ],
+  "livros": [
+    {
+      "id": "1",
+      "titulo": "Fundamentos do React",
+      "autor": "autor 1"
+    },
+    {
+      "id": "2",
+      "titulo": "Fundamentos de Física 1",
+      "autor": "Halliday"
+    },
+    {
+      "id": "3",
+      "titulo": "Cálculo Diferencial e Integral, Volume 1",
+      "autor": "Salaviegh"
+    },
+    {
+      "id": "4",
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkins"
+    },
+    {
+      "id": "5",
+      "titulo": "As Crônicas de Gelo e Fogo - Livro 1",
+      "autor": "J.R.R. Marthin"
+    },
+    {
+      "id": "6",
+      "titulo": "O Habbit",
+      "autor": "Bilbo B."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
