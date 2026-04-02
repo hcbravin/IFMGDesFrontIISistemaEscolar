@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/IFMGDesFrontIISistemaEscolar/static/css/main.0c186ec7.css",
-    "main.js": "/IFMGDesFrontIISistemaEscolar/static/js/main.dadb12aa.js",
+    "main.js": "/IFMGDesFrontIISistemaEscolar/static/js/main.e9dd1408.js",
     "static/media/bootstrap-icons.woff?": "/IFMGDesFrontIISistemaEscolar/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/IFMGDesFrontIISistemaEscolar/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/IFMGDesFrontIISistemaEscolar/index.html",
     "main.0c186ec7.css.map": "/IFMGDesFrontIISistemaEscolar/static/css/main.0c186ec7.css.map",
-    "main.dadb12aa.js.map": "/IFMGDesFrontIISistemaEscolar/static/js/main.dadb12aa.js.map"
+    "main.e9dd1408.js.map": "/IFMGDesFrontIISistemaEscolar/static/js/main.e9dd1408.js.map"
   },
   "entrypoints": [
     "static/css/main.0c186ec7.css",
-    "static/js/main.dadb12aa.js"
+    "static/js/main.e9dd1408.js"
   ]
 }
